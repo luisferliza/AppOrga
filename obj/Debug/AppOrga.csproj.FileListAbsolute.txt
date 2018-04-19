@@ -1,0 +1,9 @@
+C:\Users\Luis\Documents\Visual Studio 2017\AppOrga\AppOrga\bin\Debug\AppOrga.exe
+C:\Users\Luis\Documents\Visual Studio 2017\AppOrga\AppOrga\bin\Debug\AppOrga.pdb
+C:\Users\Luis\Documents\Visual Studio 2017\AppOrga\AppOrga\obj\Debug\AppOrga.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\Visual Studio 2017\AppOrga\AppOrga\obj\Debug\AppOrga.Form1.resources
+C:\Users\Luis\Documents\Visual Studio 2017\AppOrga\AppOrga\obj\Debug\AppOrga.Properties.Resources.resources
+C:\Users\Luis\Documents\Visual Studio 2017\AppOrga\AppOrga\obj\Debug\AppOrga.csproj.GenerateResource.Cache
+C:\Users\Luis\Documents\Visual Studio 2017\AppOrga\AppOrga\obj\Debug\AppOrga.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Visual Studio 2017\AppOrga\AppOrga\obj\Debug\AppOrga.exe
+C:\Users\Luis\Documents\Visual Studio 2017\AppOrga\AppOrga\obj\Debug\AppOrga.pdb
